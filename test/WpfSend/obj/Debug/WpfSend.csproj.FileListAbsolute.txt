@@ -1,0 +1,15 @@
+D:\Programming\Web\test\WpfSend\bin\Debug\WpfSend.exe.config
+D:\Programming\Web\test\WpfSend\bin\Debug\WpfSend.exe
+D:\Programming\Web\test\WpfSend\bin\Debug\WpfSend.pdb
+D:\Programming\Web\test\WpfSend\obj\Debug\WpfSend.csprojResolveAssemblyReference.cache
+D:\Programming\Web\test\WpfSend\obj\Debug\MainWindow.g.cs
+D:\Programming\Web\test\WpfSend\obj\Debug\App.g.cs
+D:\Programming\Web\test\WpfSend\obj\Debug\WpfSend_MarkupCompile.cache
+D:\Programming\Web\test\WpfSend\obj\Debug\WpfSend_MarkupCompile.lref
+D:\Programming\Web\test\WpfSend\obj\Debug\MainWindow.baml
+D:\Programming\Web\test\WpfSend\obj\Debug\WpfSend.g.resources
+D:\Programming\Web\test\WpfSend\obj\Debug\WpfSend.Properties.Resources.resources
+D:\Programming\Web\test\WpfSend\obj\Debug\WpfSend.csproj.GenerateResource.Cache
+D:\Programming\Web\test\WpfSend\obj\Debug\WpfSend.csproj.CoreCompileInputs.cache
+D:\Programming\Web\test\WpfSend\obj\Debug\WpfSend.exe
+D:\Programming\Web\test\WpfSend\obj\Debug\WpfSend.pdb
